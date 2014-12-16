@@ -1,0 +1,1 @@
+plink --noweb --bfile test --out testing 
